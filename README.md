@@ -64,13 +64,6 @@ My work sits at the intersection of **data, communication, and impact** — I've
 
 ---
 
-## 📊 GitHub Stats
-
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin123-liprof&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin123-liprof&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Period |
